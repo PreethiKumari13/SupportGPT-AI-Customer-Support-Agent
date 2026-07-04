@@ -97,15 +97,7 @@ streamlit run app.py
 
 ---
 
-## Screenshots
 
-| Home | Order Tracking |
-|------|----------------|
-| *(Add Screenshot)* | *(Add Screenshot)* |
-
-| Ticket Creation | AI Chat |
-|-----------------|---------|
-| *(Add Screenshot)* | *(Add Screenshot)* |
 
 ---
 
@@ -125,7 +117,7 @@ streamlit run app.py
 
 Bachelor of Engineering – Information Science & Engineering
 
-GitHub: https://github.com/your-username
+
 
 
 
